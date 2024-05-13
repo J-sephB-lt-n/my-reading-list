@@ -2,6 +2,6 @@
 
 * [future](./future.md)
 
-* [current](.current.md)
+* [current](./current.md)
 
 * [past](./past.md)
