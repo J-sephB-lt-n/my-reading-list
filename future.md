@@ -6,6 +6,7 @@ These are ordered by priority:
 |-----------------------|------------------|----------------------|------------------|----------------------
 | Causal Inference for The Brave and True  | Causality | Online book | Matheus Facure Alves | https://matheusfacure.github.io/python-causality-handbook/
 | Fortune's Formula     | Investing        | Book                 | William Poundstone| https://www.amazon.com/Fortunes-Formula-Scientific-Betting-Casinos/dp/B072VX7DCS
+| A primer on the inner workings of Transformer-based Language Models | Large Language Models | Paper | Javier Ferrando et al | https://arxiv.org/abs/2405.00208
 | The Phoenix Project   | Dev-Ops          | Book                 | Gene Kim, Kevin Behr, George Spafford | 
 | Build a Large Language Model (From Scratch | Large Language Models | Book | Sebastian Raschka | 
 | Identifying Patterns in Financial Markets: Extending the Statistical Jump Model for Regime Identification | | Paper | Aydınhan et al | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4556048
