@@ -2,17 +2,16 @@
 
 These are ordered by priority:
 
-| Title                 | Topic            | Type                 | Author(s)        | Link(s)
-|-----------------------|------------------|----------------------|------------------|----------------------
-| Causal Inference for The Brave and True  | Causality | Online book | Matheus Facure Alves | https://matheusfacure.github.io/python-causality-handbook/
-| Fortune's Formula     | Investing        | Book                 | William Poundstone| https://www.amazon.com/Fortunes-Formula-Scientific-Betting-Casinos/dp/B072VX7DCS
-| A primer on the inner workings of Transformer-based Language Models | Large Language Models | Paper | Javier Ferrando et al | https://arxiv.org/abs/2405.00208
-| The Phoenix Project   | Dev-Ops          | Book                 | Gene Kim, Kevin Behr, George Spafford | 
-| Build a Large Language Model (From Scratch | Large Language Models | Book | Sebastian Raschka | 
-| Identifying Patterns in Financial Markets: Extending the Statistical Jump Model for Regime Identification | | Paper | Aydınhan et al | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4556048
-| KAN: Kolmogorov-Arnold Networks | Deep Learning | Paper | Ziming Liu et al | https://arxiv.org/abs/2404.19756
-| "Probabilistic Machine Learning" Series | Machine Learning | Book | Kevin Murphy | https://probml.github.io/pml-book/
-| A primer on algorithmic differentiation | Automatic differentiation | Blog | Guillaume Dalle | https://gdalle.github.io/AutodiffTutorial/
-| Rules of Machine Learning: Best Practices for ML Engineering | Machine Learning | PDF | Martin Zinkevich | https://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
-
-
+| Title                                                                                                     | Topic                     | Type        | Author(s)                             | Link(s)                                                                            |
+| --------------------------------------------------------------------------------------------------------- | ------------------------- | ----------- | ------------------------------------- | ---------------------------------------------------------------------------------- |
+| Causal Inference for The Brave and True                                                                   | Causality                 | Online book | Matheus Facure Alves                  | <https://matheusfacure.github.io/python-causality-handbook/>                       |
+| Fortune's Formula                                                                                         | Investing                 | Book        | William Poundstone                    | <https://www.amazon.com/Fortunes-Formula-Scientific-Betting-Casinos/dp/B072VX7DCS> |
+| A primer on the inner workings of Transformer-based Language Models                                       | Large Language Models     | Paper       | Javier Ferrando et al                 | <https://arxiv.org/abs/2405.00208>                                                 |
+| The Phoenix Project                                                                                       | Dev-Ops                   | Book        | Gene Kim, Kevin Behr, George Spafford |
+| Build a Large Language Model (From Scratch                                                                | Large Language Models     | Book        | Sebastian Raschka                     |
+| A Philosophy of Software Design                                                                           | Software Engineering      | Book        | John Ousterhout                       |                                                                                    |
+| Identifying Patterns in Financial Markets: Extending the Statistical Jump Model for Regime Identification |                           | Paper       | Aydınhan et al                        | <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4556048>                      |
+| KAN: Kolmogorov-Arnold Networks                                                                           | Deep Learning             | Paper       | Ziming Liu et al                      | <https://arxiv.org/abs/2404.19756>                                                 |
+| "Probabilistic Machine Learning" Series                                                                   | Machine Learning          | Book        | Kevin Murphy                          | <https://probml.github.io/pml-book/>                                               |
+| A primer on algorithmic differentiation                                                                   | Automatic differentiation | Blog        | Guillaume Dalle                       | <https://gdalle.github.io/AutodiffTutorial/>                                       |
+| Rules of Machine Learning: Best Practices for ML Engineering                                              | Machine Learning          | PDF         | Martin Zinkevich                      | <https://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf>                         |
